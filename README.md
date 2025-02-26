@@ -9,6 +9,10 @@
 A simple Google Chrome extension that allows you to encode text to Base64 or decode Base64 strings directly from the context menu.  
 This extension is Manifest v3 compliant.
 
+<div align="left">
+  <img src="example-image.png" width="500">
+</div>
+
 ## Installation
 
 1. Download or clone this repository
