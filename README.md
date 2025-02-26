@@ -20,6 +20,7 @@ This extension is Manifest v3 compliant.
 ## To-do
 
 - [ ] Release on the Chrome Web Store
+- [ ] Find $5 for the developer registration fee
 
 ## Usage
 
